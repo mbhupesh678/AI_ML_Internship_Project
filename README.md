@@ -1,4 +1,3 @@
-# AI_ML_Internship_Project
 # Industrial AI/ML Internship – Quality Prediction in a Mining Process
 
 **Industrial Internship Program | UniConverge Technologies Pvt. Ltd. (UCT)**
